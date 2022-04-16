@@ -229,7 +229,3 @@ if __name__ == "__main__":
     print("Unfocused features dumped.")
     pickle.dump(Sxx_drowsy, open(os.path.join(data_dir, "drowsy" + ".psd"), "wb"))
     print("Drowsy features dumped.")
-
-
-
-
