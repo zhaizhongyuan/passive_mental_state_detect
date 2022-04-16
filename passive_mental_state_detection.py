@@ -174,7 +174,7 @@ if __name__ == "__main__":
     plt.rcParams.update({'font.size': 14})
     plt.rcParams["figure.figsize"] = (9.6, 7.2)
     # Locate file path
-    data_root = './EEG_Data_working'
+    data_root = './EEG_Data'
 
     """
     Pre-processing
